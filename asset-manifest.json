@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/web-react/static/css/main.44c3946e.css",
+    "main.js": "/web-react/static/js/main.02f6149a.js",
+    "static/js/787.dcdb71ea.chunk.js": "/web-react/static/js/787.dcdb71ea.chunk.js",
+    "static/media/profile.jpg": "/web-react/static/media/profile.007668eeb935a703a75e.jpg",
+    "static/media/id.png": "/web-react/static/media/id.b957c2e470be8225d7d0.png",
+    "static/media/work5.jpg": "/web-react/static/media/work5.a91780407841892fcea8.jpg",
+    "static/media/about.jpg": "/web-react/static/media/about.a8912eef9174461ae27b.jpg",
+    "static/media/work2.jpg": "/web-react/static/media/work2.f6c167d95015d56a2b74.jpg",
+    "static/media/work4.jpg": "/web-react/static/media/work4.2519bc4c3c665970d7ce.jpg",
+    "static/media/work3.jpg": "/web-react/static/media/work3.aabd61a0d8468c0f28b7.jpg",
+    "static/media/work6.jpg": "/web-react/static/media/work6.dad12ee603417640bc2f.jpg",
+    "static/media/2023resumegil.pdf": "/web-react/static/media/2023resumegil.fefef8efc207fbd1e258.pdf",
+    "static/media/work1.jpg": "/web-react/static/media/work1.9c8788df85ecd8a1650c.jpg",
+    "static/media/testimonial1.png": "/web-react/static/media/testimonial1.89079c1d25f2c94ceb89.png",
+    "static/media/testimonial2.png": "/web-react/static/media/testimonial2.89079c1d25f2c94ceb89.png",
+    "static/media/testimonial3.png": "/web-react/static/media/testimonial3.89079c1d25f2c94ceb89.png",
+    "static/media/testimonial4.png": "/web-react/static/media/testimonial4.89079c1d25f2c94ceb89.png",
+    "static/media/testimonial5.png": "/web-react/static/media/testimonial5.89079c1d25f2c94ceb89.png",
+    "static/media/testimonial6.png": "/web-react/static/media/testimonial6.89079c1d25f2c94ceb89.png",
+    "index.html": "/web-react/index.html",
+    "main.44c3946e.css.map": "/web-react/static/css/main.44c3946e.css.map",
+    "main.02f6149a.js.map": "/web-react/static/js/main.02f6149a.js.map",
+    "787.dcdb71ea.chunk.js.map": "/web-react/static/js/787.dcdb71ea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44c3946e.css",
+    "static/js/main.02f6149a.js"
+  ]
+}
