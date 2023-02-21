@@ -14,7 +14,7 @@
     text-align: center;
    
 }
-.footer__link: hover {
+.footer__link:hover {
     color: var(--title-color-dark);
 }
 .footer__list {

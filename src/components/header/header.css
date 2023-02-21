@@ -46,7 +46,7 @@
 
 /* active link */
 .active-link,
-.nav__link: hover {
+.nav__link:hover {
     color: var(--title-color-dark);
 }
 
