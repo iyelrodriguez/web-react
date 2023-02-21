@@ -22,7 +22,7 @@
 }
 @media screen and (max-width: 992px) {
     .scrollup {
-        right:1.5rem;
+        right: 1.5rem;
         padding: 0.25rem 0.4rem;
     }
     .scrollup__icon{

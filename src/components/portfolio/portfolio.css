@@ -65,7 +65,7 @@
 }
 .work__button {
     color: #1a1813;
-    position:absolute;
+    position: absolute;
     bottom: 1.5rem;
     left: 1.5rem;
     font-size: var(--h3-font-size);

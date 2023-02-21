@@ -63,7 +63,7 @@
     border-radius: 1.5rem;
 }
 .services__modal-close {
-    position:absolute;
+    position: absolute;
     top: 1.5rem;
     right: 1.5rem;
     font-size: 1.5rem;
@@ -88,7 +88,7 @@
     row-gap: 0.75rem;
 }
 .services__modal-service {
-    display:flex;
+    display: flex;
     align-items: center;
     column-gap: 0.5rem;
 }
