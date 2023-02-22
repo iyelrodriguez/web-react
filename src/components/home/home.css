@@ -62,6 +62,11 @@
     width: 300px;
     height: 300px;
     animation: profile__animate 8s ease-in-out infinite 1s;
+    overflow: hidden;
+    transition: transform .5s ease;
+}
+.home__img:hover {
+    transform: scale(1.1);
 }
 @keyframes profile__animate {
     0% {
